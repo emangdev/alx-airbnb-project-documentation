@@ -45,6 +45,8 @@ Each feature should include:
 
 ### Input/Output Specifications
 
+### Performance and security criteria
+
 **Request (Register):**
 
 ```json
@@ -54,3 +56,18 @@ Each feature should include:
   "password": "StrongPass123",
   "role": "guest"
 }
+```
+
+### Performance and Security criteria
+
+## 🔐 Feature 2: Property Management
+
+### Functional requirements
+
+### Input and output specification
+
+### Validation Rules
+
+### API endpoints
+
+### Performance and security criteria
